@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "83Y95VKC5X.com.whispoll.WhisPoll",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
